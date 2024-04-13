@@ -12,8 +12,11 @@
     "@emotion/react": "^11.11.4",
     "@emotion/styled": "^11.11.5",
     "@fontsource-variable/montserrat": "^5.0.18",
+    "@fontsource/staatliches": "^5.0.19",
+    "@mui/icons-material": "^5.15.15",
     "@mui/material": "^5.15.15",
     "next": "14.1.4",
+    "next-intl": "^3.11.1",
     "react": "^18",
     "react-dom": "^18"
   },

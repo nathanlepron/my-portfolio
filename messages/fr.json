@@ -1,0 +1,92 @@
+{
+    "Tabs": {
+        "appname": "Portfolio de Nathan",
+        "description": "Ceci est mon portfolio",
+        "Contact": {
+            "name": "Me contacter",
+            "link": "/contact"
+        },
+        "About": {
+            "name": "À propos",
+            "link": "/about"
+        },
+        "Projects": {
+            "name": "Mes projets",
+            "link": "/projects"
+        }
+    },
+    "Index": {
+        "firstpage_title1": "Bonjour, je m'appelle Nathan Lepron est je suis",
+        "firstpage_title2": "Développeur Fullstack.",
+        "firstpage_comment1": "J'adore coder, créer et imaginer de nouvelles choses.",
+        "firstpage_comment2": "Mon travail, ma passion.",
+        "firstpage_component_title": "Je suis très polyvalent",
+        "firstpage_component_front": "Créer votre interface",
+        "firstpage_component_front_comment": "Je peux imaginer une interface complètement à votre besoin pour votre projet.",
+        "firstpage_component_back": "Configurer votre application",
+        "firstpage_component_back_comment": "Pour une application complète, vous devez relier tous les composants ensemble.",
+        "more_about_me_title": "Plus de détails sur moi...",
+        "more_about_me_details": "Hello ! Je m’appelle Nathan Lepron, développeur Web junior qui vient de terminer sa formation. \r\nJ’ai eu l’avantage de me former sur des missions très importantes grâce à Saint-Gobain Sekurit France, où j’ai pu faire mon alternance pendant 3 ans. Divers projets qui m’ont permis de gagner en expérience sur divers langages, mais également sur l’organisation, la gestion de projets ou encore l’écoute dans le milieu professionnel. \r\nGrâce à mes cinq années d’études dans le domaine du développement, je peux apporter mon expertise à votre entreprise.",
+        "actual_job_title": "Poste actuel",
+        "actual_job_details": "En alternance chez Saint-Gobain Sekurit France jusqu’au 30 septembre 2024",
+        "visit_card_name": "Nathan Lepron",
+        "visit_card_job": "Développeur web",
+        "visit_card_exp": "Depuis 2021",
+        "visit_card_links": [
+            {
+                "name": "Github",
+                "link": "",
+                "tooltip": "Rejoignez mon Github!",
+                "image": ""
+            },
+            {
+                "name": "LinkedIn",
+                "link": "",
+                "tooltip": "Jetez un coup d'oeil",
+                "image": ""
+            },
+            {
+                "name": "Mail",
+                "link": "mailto:n.lepron@gmail.com",
+                "tooltip": "Contactez-moi",
+                "image": ""
+            }
+        ],
+        "contact_me_title": "Contactez-moi !",
+        "contact_me_details": "Si vous souhaitez plus d'informations sur moi... ou pour toutes autres demandes, vous pouvez me contacter par mes réseaux sociaux ou juste en dessous.",
+        "contact_me_ph_firstname": "Prénom",
+        "contact_me_ph_lastname": "Nom",
+        "contact_me_ph_phone": "Numéro de téléphone",
+        "contact_me_ph_email": "Votre email @",
+        "contact_me_ph_obj": "Objet",
+        "contact_me_ph_content": "Contenu de votre message",
+        "contact_me_ph_send": "Envoyer",
+        "projects_title": "Mes derniers projets",
+        "projects_realisedby": "Projet réalisé en ",
+        "projects_technologies": "Les technologies",
+        "projects_begin": "Début du projet",
+        "projects_end": "Mise en production",
+        "projects": [
+            {
+                "name": "InOut",
+                "cover_image": "",
+                "business": {
+                    "tooltip": "",
+                    "image": ""
+                },
+                "technologies": [
+                    {
+                        "name": "PowerApps",
+                        "image": ""
+                    }
+                ],
+                "dates": {
+                    "begin": "",
+                    "end": ""
+                },
+                "description": "",
+                "doby": "solo"
+            }
+        ]
+    }
+}

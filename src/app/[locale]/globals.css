@@ -1,0 +1,23 @@
+body.app-content{
+    margin:0px;
+    margin: 0;
+    padding: 0;
+    width: 100vw;
+    height: 100vh;
+    box-sizing: border-box;
+}
+header{
+    background: rgb(3,22,16);
+    background: linear-gradient(180deg, rgba(3,22,16,1) 0%, rgba(21,84,71,1) 100%);
+}
+body{
+    background: rgb(63,130,109);
+    background: linear-gradient(180deg, rgba(63,130,109,1) 0%, rgba(131,186,160,1) 20%, rgba(131,186,160,1) 80%, rgba(63,130,109,1) 100%);
+}
+a{
+    text-decoration: none;
+    color:inherit
+}
+.active-link{
+    color: "#83BAA0"
+}
