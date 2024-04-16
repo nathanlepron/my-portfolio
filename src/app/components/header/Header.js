@@ -78,6 +78,8 @@ function Header({ locale }) {
                     display: { xs: 'none', md: 'flex' },
                     fontFamily: 'monospace',
                     fontWeight: 700,
+                    lineHeight:"1.2rem",
+                    letterSpacing:".05rem",
                     color: 'inherit',
                     textDecoration: 'none',
                   }}
@@ -124,17 +126,16 @@ function Header({ locale }) {
             </Box>
             <Link href="/">
               <Typography
-                variant="h5"
+                variant="p"
                 noWrap
                 sx={{
                   mr: 2,
                   display: { xs: 'flex', md: 'none' },
                   flexGrow: 1,
-                  fontFamily: 'monospace',
+                  lineHeight:"1.2rem",
                   fontWeight: 700,
-                  letterSpacing: '.3rem',
                   color: 'inherit',
-                  textDecoration: 'none',
+                  textDecoration: 'none', alignItems: 'center', justifyContent: 'center'
                 }}
               >
                 {t('appname')}
@@ -154,7 +155,7 @@ function Header({ locale }) {
                 >
                   <Button
                   className={getLinkClassName('/' + locale + t(`${page}.link`))}
-                    sx={{ my: 2, color: 'white', display: 'flex', minWidth: 200, justifyContent: 'center', alignItems: 'center', '&.active-link': { color: '#83BAA0', fontWeight: 'bold' } }}
+                    sx={{ my: 2,fontSize:'1.2rem', fontWeight:100, textTransform:'capitalize', color: 'white', display: 'flex', minWidth: 200, justifyContent: 'center', alignItems: 'center', '&.active-link': { color: '#83BAA0', fontWeight: 'bold' } }}
                   >
                     {t(`${page}.name`)}
                   </Button>
